@@ -60,11 +60,6 @@ elif q == "flashlight":
             else:
                 print("get out of here");
 
-
-
-
-
 else:
     print("GET OUT OF HERE!!!! ");
-
-#add timing
+#todo add timing
