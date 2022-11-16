@@ -1,2 +1,0 @@
-# PYTHON
-Onlu for Python
