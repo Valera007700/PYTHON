@@ -1,4 +1,3 @@
-tools = ['hammer', 'bug', 'car']
-for m in tools:
-    print(f"The item is: {m}")
-    
+x = "Hallo world"
+y = "Buy, see you"
+print(x + " Buvai " + y)
