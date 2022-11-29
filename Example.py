@@ -160,7 +160,7 @@
 #
 #
 #
-# with open("courses.txt") as courses_file: # чтобы открыть файл COURSES.txt в переменной courses_file
+# with open("expectancy.txt") as courses_file: # чтобы открыть файл COURSES.txt в переменной courses_file
 #     for line in courses_file:
 #         print(line)
 
@@ -168,3 +168,58 @@
 
 
 
+---------------------------
+
+# print(name, type(name), "\n")
+
+
+# year = input("YEAR")
+# for yea in part:
+#     if year in part: print(year)
+#     else: print("no")
+
+# for ms in part_new:
+#     print(part_new, type(part_new))
+
+
+# years = input("ГОД: ")
+#
+# # if years in part_new: print("YES")
+# # else: print("NO!!")
+#
+# for new_yer in table:
+#     if years in part_new: print("YES")
+#     else: print("ni")
+
+
+# todo----------
+# if 'Bird' in animals: print('Chirp')
+#
+#
+#
+#
+#
+# i = 0
+# for sp in table:
+#     print("# ", i, sp )
+#     i += 1
+# ch = input("Твой выбор строки")
+# if ch == 2007 or 2008:
+#     print()
+# todo----------
+
+
+# todo --------
+
+# name_of_country = str(part[0])
+# short_name = str(part[1])
+# year = (int(part[2]))
+# life = str(part[3])
+#
+# print(part_new, type(part_new))
+# #   Определяем тип всех элементов массива
+# print(name_of_country, type(name_of_country))
+# print(short_name, type(short_name))
+# print(year, type(year))
+# print(life, type(life))
+# todo --------
